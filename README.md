@@ -10,23 +10,23 @@ Coffee Shop.
 1)How do sales vary by day of the
 week and hour of the day?
 
-Are there any peak times for sales
+2)Are there any peak times for sales
 activity?
 
-What is the total sales revenue for
+3)What is the total sales revenue for
 each month?
 
-How do sales vary across different
+4)How do sales vary across different
 store locations?
 
-what is the average price/order
+5)what is the average price/order
 per person
 
-Which products are the best-
+6)Which products are the best-
 selling in terms of quantity and
 revenue?
 
-How do sales vary by product
+7)How do sales vary by product
 category and type?
 
 Made an Intractive coffe sales dashboard using excel
